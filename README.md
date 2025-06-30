@@ -26,4 +26,56 @@ This project:
 - **Well-structured and annotated notebook** for clarity and learning purposes
 
 ## 📁 Repository Structure
+📦iris-flower-classification
+┣ 📜README.md
+┣ 📓iris_classification.ipynb ← Google Colab notebook (link below)
+
+
+## 🧠 Technologies Used
+
+- Python 3
+- Google Colab
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn (sklearn)
+
+## 📊 Dataset Description
+
+| Feature        | Description           |
+|----------------|-----------------------|
+| Sepal length   | Length of the sepal (cm) |
+| Sepal width    | Width of the sepal (cm)  |
+| Petal length   | Length of the petal (cm) |
+| Petal width    | Width of the petal (cm)  |
+| Target         | Flower species: Setosa, Versicolor, Virginica |
+
+The dataset is available directly via `sklearn.datasets.load_iris()`.
+
+## 🧪 Model Performance
+
+- Achieved high classification accuracy (typically >95%) with multiple algorithms.
+- SVM and Decision Tree models performed particularly well on this dataset.
+- Confusion matrices indicate clear class separability, especially for *Iris-setosa*.
+
+## 📈 Sample Visualizations
+
+- Pair plots showing feature distributions across species
+- Correlation heatmap
+- Box plots for univariate analysis
+- Decision boundaries (where applicable)
+
+## 🔗 Project Notebook
+
+You can view and run the entire project using the following Colab link:  
+👉 [Google Colab Notebook](https://colab.research.google.com/drive/1yJZb9NW76BzEZS1YIBdfoxhYyFVq8pji?usp=drive_link)
+
+> 💡 *Ensure you have access to Google Colab with a Google account to run this notebook interactively.*
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/iris-flower-classification.git
 
