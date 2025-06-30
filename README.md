@@ -28,7 +28,7 @@ This project:
 ## 📁 Repository Structure
 📦iris-flower-classification
 ┣ 📜README.md
-┣ 📓iris_classification.ipynb ← Google Colab notebook (link below)
+┣ 📓iris_classification.ipynb ← Google Colab notebook ([link below](https://github.com/ZaynabAtwi/Iris-Flower-Species/blob/main/Iris_flower_Species_Prediction.ipynb))
 
 
 ## 🧠 Technologies Used
@@ -69,7 +69,7 @@ The dataset is available directly via `sklearn.datasets.load_iris()`.
 ## 🔗 Project Notebook
 
 You can view and run the entire project using the following Colab link:  
-👉 [Google Colab Notebook](https://colab.research.google.com/drive/1yJZb9NW76BzEZS1YIBdfoxhYyFVq8pji?usp=drive_link)
+👉 [Google Colab Notebook]([https://colab.research.google.com/drive/1yJZb9NW76BzEZS1YIBdfoxhYyFVq8pji?usp=drive_link](https://github.com/ZaynabAtwi/Iris-Flower-Species/blob/main/Iris_flower_Species_Prediction.ipynb))
 
 > 💡 *Ensure you have access to Google Colab with a Google account to run this notebook interactively.*
 
